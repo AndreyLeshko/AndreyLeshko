@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Andrey 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**AndreyLeshko/AndreyLeshko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Contacts</h2>
 
-Here are some ideas to get you started:
+e-mail: andreyleshko2001@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+telegram: andrey_leshko
+
+---
+
+<h2>My stack:</h2>
+<p>
+  <img src="python.svg" alt="Python" width="100">
+  <img src="django.svg" alt="Django" width="100">
+  <img src="postgresql.svg" alt="PostgreSQL" width="100">
+  <img src="html5.svg" alt="HTML" width="100">
+  <img src="css3.svg" alt="CSS" width="100">
+  <img src="git.svg" alt="GIT" width="100">
+</p>
+
+## Rating for codewars
+[![codewars](https://www.codewars.com/users/AndreyLeshko/badges/large)](https://www.codewars.com/users/username)
