@@ -21,3 +21,5 @@ telegram: andrey_leshko
 
 ## Rating for codewars
 [![codewars](https://www.codewars.com/users/AndreyLeshko/badges/large)](https://www.codewars.com/users/username)
+
+![Leetcode Stats](https://leetcode.com/AndreyLeshko/)
