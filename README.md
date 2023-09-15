@@ -22,4 +22,4 @@ telegram: andrey_leshko
 ## Rating for codewars
 [![codewars](https://www.codewars.com/users/AndreyLeshko/badges/large)](https://www.codewars.com/users/username)
 
-![Leetcode Stats](https://leetcode.com/AndreyLeshko/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AndreyLeshko?theme=dark&font=Maven%20Pro&ext=heatmap)
